@@ -1,6 +1,6 @@
 Grand Welcome for all visiting my New project " An AI-Powered Multi-Agent Framework for End-to-End Target Identification, Compound Generation, and Clinical Trial Planning in Drug Discovery". 
-Dm me for More Information 😉
-🤖 Agents & Their Core Responsibilities
+Dm me for More Information 
+Agents & Their Core Responsibilities
 
 1.Target Discovery Agent
 hashtag#Identifies potential disease-associated biological targets
